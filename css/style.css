@@ -100,7 +100,7 @@ width: 100%;
 .here_title{
         position: absolute;
         color: #ffffff;
-	width: 33%;
+	max-width: 507px !important;
 	margin-left: 120px;
 	z-index: 66666666;
 }
